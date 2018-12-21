@@ -1,3 +1,4 @@
+TES SEKALI LAGI
 import RPi.GPIO as GPIO
 import time
 #import popen
